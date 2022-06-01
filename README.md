@@ -1,3 +1,4 @@
+# Introduction
 Python is a widely used general-purpose, high level programming language.
 Python was created by Guido Van Rossum in 1991 and further developed by the
 Python Software Foundation.
@@ -22,6 +23,7 @@ Base64 is designed to carry data stored in binary format across the channels tha
 only reliably support text content.
 Base64 is used obfuscate data or to mask it so that it’s not human readable.
 
+# Description:
 Message Encryptor-Decryptor is a program which enables the user to encrypt and decrypt the messages
 easily, allows them a secure way to have their messages secure or to decrypt the message
 easily, etc.
@@ -37,7 +39,6 @@ encrypted hash using same key.
 file:///home/aayushgupta69/Downloads/IMG-20220601-WA0008.jpg![image](https://user-images.githubusercontent.com/72346589/171452792-574e5265-4984-429d-bf35-d2ce78911b5f.png)
 file:///home/aayushgupta69/Downloads/IMG-20220601-WA0009.jpg![image](https://user-images.githubusercontent.com/72346589/171452842-595d2e81-4ee2-4e9d-b0e3-86f97ef3753c.png)
 
-# Description:
 Encoding is the process of converting text into an incognizable language and
 the reverse process in decoding. In this project, we will be using the Tkinter
 module and base64 module to do the required operations.
