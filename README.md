@@ -1,5 +1,17 @@
-file:///home/aayushgupta69/Downloads/IMG-20220601-WA0008.jpg![image](https://user-images.githubusercontent.com/72346589/171451473-deca1474-919e-4417-a0fd-475fac8489fe.png)
-file:///home/aayushgupta69/Downloads/IMG-20220601-WA0009.jpg![image](https://user-images.githubusercontent.com/72346589/171451816-93a0bb6d-a27e-4728-a05a-69a186ef5e6a.png)
+Encrypt-Decrypt is a program which enables the user to encrypt and decrypt the messages
+easily, allows them a secure way to have their messages secure or to decrypt the message
+easily, etc.
+The various app screens and features used in the website are as follows:
+•
+•
+•
+Encrypt Window: It is the entry point from where one can encrypt their message.
+Decrypt Window: This window contains the message which will have to be decoded.
+Function Button: It can encrypt the message using the key and can decrypt the
+encrypted hash using same key.
+
+https://user-images.githubusercontent.com/72346589/171451473-deca1474-919e-4417-a0fd-475fac8489fe.png)
+(https://user-images.githubusercontent.com/72346589/171451816-93a0bb6d-a27e-4728-a05a-69a186ef5e6a.png)
 
 # Description:
 Encoding is the process of converting text into an incognizable language and
